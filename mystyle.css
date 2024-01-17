@@ -1,0 +1,16 @@
+.dd{
+    width: 50%;
+    height: 500px;
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+.itm{
+    width :20%;
+    height: 200px;
+  margin-left: 10px;
+  
+}
